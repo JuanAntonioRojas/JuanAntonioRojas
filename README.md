@@ -1,4 +1,5 @@
-![xCSs2rQ-3318659125](https://github.com/user-attachments/assets/fd17c397-e4a5-4b27-99b2-ed313321c146)
+![doc-brown-bttf-1577289790](https://github.com/user-attachments/assets/3762edb9-a8c6-46af-bf2c-89e1fac109ac)
+
 
 
 - 👋 Hi, I’m @JuanAntonioRojas
