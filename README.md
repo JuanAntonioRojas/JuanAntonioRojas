@@ -9,6 +9,19 @@
 - 📫 How to reach me ... tonyrojas007@gmail.com
 - My YouTube channel: https://www.youtube.com/watch?v=BRWNmCi8sRk&list=UULFyx06Q38tUFKQqNvJV0tzeA
 
+- I share some of Mike Gancarz' Unix Philosophy (1994):
+-   1. Small is beautiful
+    2. Make each program do one thing well
+    3. Build a prototype asap
+
+- As well as some of Eric S. Raymond's Unix Philosophy (1994):
+-   1. Build modular programs
+    2. Write simple, readable, robust and transparent programs
+    3. Build on potential users' expected knowledge
+ 
+- Finally, imo, UX should be exiting, fun, engaging and high impact
+-  and a team should be divided into PMs, Designers, Developers and QA
+
 <!---
 JuanAntonioRojas/JuanAntonioRojas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
