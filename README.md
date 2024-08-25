@@ -19,7 +19,7 @@
     2. Write simple, readable, robust and transparent programs
     3. Build on potential users' expected knowledge
  
-- Finally, imo, UX should be exiting, fun, engaging and high impact
+- Finally, imo, UX should be exciting, fun, engaging and high impact
     and a team should be divided into PMs, Designers, Developers and QA
 
 <!---
