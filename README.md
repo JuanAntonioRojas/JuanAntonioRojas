@@ -14,7 +14,7 @@
     2. Make each program do one thing well
     3. Build a prototype asap
 
-- As well as some of Eric S. Raymond's Unix Philosophy (1994):
+- As well as some of Eric S. Raymond's Unix Philosophy: KISS (2003):
     1. Build modular programs
     2. Write simple, readable, robust and transparent programs
     3. Build on potential users' expected knowledge
