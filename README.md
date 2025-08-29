@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning ... Python, Java, AWS, SQL
 - 💞️ I’m looking to collaborate on ... any front end stuff
 - 📫 How to reach me ... tonyrojas007@gmail.com
-- My YouTube channel: https://www.youtube.com/watch?v=BRWNmCi8sRk&list=UULFyx06Q38tUFKQqNvJV0tzeA
+- My YouTube channel: https://www.youtube.com/@Tony_Rojas/videos
 
 - I share some of Mike Gancarz' Unix Philosophy (1994):
     1. Small is beautiful
